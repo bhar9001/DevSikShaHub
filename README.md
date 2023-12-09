@@ -1,8 +1,8 @@
-# DevSikhaHub
+# DevSikShaHub
 
 ## Description
 
-DevSikhaHub is an online learning platform that delivers educational courses over the internet. The main purpose of e-learning apps is to facilitate teaching and learning anytime, anywhere through digital devices.
+DevSikShaHub is an online learning platform that delivers educational courses over the internet. The main purpose of e-learning apps is to facilitate teaching and learning anytime, anywhere through digital devices.
 
 <!-- demo -->
 
@@ -21,7 +21,7 @@ Follow these steps to set up this App on your local environment:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/bhar9001/DevSikshaHub.git
+   git clone https://github.com/bhar9001/DevSikShaHub.git
 
    cd DevSikShaHub
    ```
